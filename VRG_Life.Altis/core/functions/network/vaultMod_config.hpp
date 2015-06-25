@@ -1,0 +1,1 @@
+#define VAULTMOD_KEY 57
