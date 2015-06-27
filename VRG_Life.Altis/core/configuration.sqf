@@ -134,18 +134,18 @@ switch (playerSide) do
 	{
 		life_atmcash = 500000; //Starting Bank Money
 		life_paycheck = 1000; //Paycheck Amount
-        life_bleedout_timer = 2; //Scaled in minutes
+        life_bleedout_timer = 3.5; //Scaled in minutes
 	};
 	case civilian:
 	{
 		life_atmcash = 500000; //Starting Bank Money
 		life_paycheck = 1150; //Paycheck Amount
-        life_bleedout_timer = 1.5; //Scaled in minutes
+        life_bleedout_timer = 3.5; //Scaled in minutes
 	};
 
 	case independent: {
 		life_atmcash = 500000;
-		life_paycheck = 2000;
+		life_paycheck = 1450;
         life_bleedout_timer = 0; //Scaled in minutes
 	};
 };
@@ -337,9 +337,9 @@ sell_array =
 	["uraniumWeap",8750],
 	["uraniumMed",4800],
 	["painkill",5300],
-	["chemicals",6600],
-	["blooddiamond",5000],
-	["blooddiamondc",7500,
+	["chemicals",6200],
+	["blooddiamond",4000],
+	["blooddiamondc",6100],
 	["bath",9000],
 	["eporn",2950],
 	["eSnuff",2950],
