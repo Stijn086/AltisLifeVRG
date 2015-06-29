@@ -24,7 +24,7 @@ switch (_className) do
 	case "C_Boat_Civil_01_F": {85};
 	case "C_Boat_Civil_01_police_F": {85};
 	case "C_Boat_Civil_01_rescue_F": {85};
-	case "B_Truck_01_box_F": {500};
+	case "B_Truck_01_box_F": {595};
 	case "B_Truck_01_transport_F": {325};
 	case "B_MRAP_01_F": {65};
 	case "O_MRAP_02_F": {60};
@@ -40,7 +40,7 @@ switch (_className) do
 	case "B_Boat_Transport_01_F": {45};
 	case "O_Truck_03_transport_F": {285};
 	case "O_Truck_03_covered_F": {300};
-	case "O_Truck_03_device_F": {350};
+	case "O_Truck_03_device_F": {760};
 	case "B_Heli_Transport_01_camo_F": {180};
 	case "Land_CargoBox_V1_F": {5000}; // idk???
 	case "Box_IND_Grenades_F": {250}; // housing
