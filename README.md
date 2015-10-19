@@ -1,4 +1,4 @@
-SinCity-Altis
+VIRTUAL REALITY GAMING-Altis
 =============
 
 dev getting started guide.
