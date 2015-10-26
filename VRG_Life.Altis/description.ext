@@ -1,7 +1,9 @@
+#include "infiSTAR_AdminMenu.hpp"
+
 author = "Tonic";
-dev = "BongLord";
+dev = "BongLord & STIJN";
 onLoadName = "Altis Life RPG v3.2.1";
-onLoadMission = "Edited by VirtualRealityGaming";
+onLoadMission = "Edited by VRG for Loyalty Gaming";
 joinUnassigned = 1;
 respawn = BASE;
 respawndelay = 5;
