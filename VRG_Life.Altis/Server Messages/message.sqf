@@ -7,7 +7,7 @@ _text6 = parseText format ["<t color='#0085ff' size='1'>VRG AltisLife Restarts E
 _text7 = parseText format ["<t color='#0085ff' size='1'>Please Sync Data Regularly ! Failing To Do So May Result In The Loss Of Your Equipment !</t>"];
 _text8 = parseText format ["<t color='#0085ff' size='1'>Restarts Are at 0000, 0400, 0800, 1200, 1600, 2000 AEST</t>"];
 _text9 = parseText format ["<t color='#0085ff' size='1'>Visit our forums http://virtualrealitygamingaus.com/</t>"];
-_text10 = parseText format ["<t color='#0085ff' size='1'>Join Us On Teamspeak!      tssyd1.vilayer.com:10051           </t>"];
+_text10 = parseText format ["<t color='#0085ff' size='1'>Join Us On Teamspeak!      wrong ts           </t>"];
 _text11 = parseText format ["<t color='#0085ff' size='1'>Welcome to Our New Dedicated Server</t>"];
 
 while {true} do
